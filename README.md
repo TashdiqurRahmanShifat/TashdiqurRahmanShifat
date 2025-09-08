@@ -171,8 +171,8 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white)](https://tashdiqurrahmanshifat.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tashdiqurrahmanshifat)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white)](mailto:tashdiqur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tashdiqur-shifat-606608277)
+[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logoColor=white)](mailto:tashdiqurshifat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TashdiqurRahmanShifat)
 
 </div>
