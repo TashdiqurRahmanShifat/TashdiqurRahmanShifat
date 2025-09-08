@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Tashdiqur Rahman
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F79F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Competitive+Programmer" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TashdiqurRahmanShifat&color=brightgreen&style=flat-square" alt="Profile Views"/>
