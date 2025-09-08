@@ -9,10 +9,8 @@
 
 ## 🎓 About Me
 
-**👨‍🎓 CSE L4T1 student at BUET**
+**👨‍🎓 Undergraduate student of CSE department at BUET**
 
-- 🏫 **Bangladesh University of Engineering and Technology**
-- 📍 **Dhaka, Bangladesh**  
 
 ## 🛠️ Technical Skills
 
