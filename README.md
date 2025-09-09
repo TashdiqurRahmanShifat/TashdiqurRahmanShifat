@@ -87,7 +87,6 @@
 <div align="center">
   
 ![Assembly](https://img.shields.io/badge/ASSEMBLY-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Shell](https://img.shields.io/badge/SHELL-4EAA25?style=for-the-badge&logo=powershell&logoColor=white)
 ![Yacc](https://img.shields.io/badge/YACC-FF6B6B?style=for-the-badge&logo=gnu&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
