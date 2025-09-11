@@ -118,9 +118,7 @@
 #### 🌟 **Technical Highlights:**
 - **Microservices Architecture** with 4 independent services
 - **Azure Cloud Deployment** with CI/CD pipeline
-- **HIPAA-Compliant** data handling and security
 - **Responsive Design** with mobile-first approach
-- **99.9% Uptime SLA** with health monitoring
 
 ## 🎯 Project Portfolio
 
