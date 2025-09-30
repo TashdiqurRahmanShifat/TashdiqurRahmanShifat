@@ -92,59 +92,7 @@
 
 </div>
 
-## 🎯 Featured Project
 
-### 🏥 **[PulseIQ - Healthcare Microservices Platform](https://github.com/TashdiqurRahmanShifat/PulseIQ)**
-
-**A state-of-the-art healthcare platform engineered with modern microservices architecture to revolutionize patient care and medical practice management.**
-
-#### 🏗️ **Architecture & Technologies:**
-- **Frontend:** React 18 + TypeScript + Vite + Tailwind CSS
-- **Backend:** Java 21 + Spring Boot 3.5 + Spring Security
-- **AI Service:** Python 3.11 + FastAPI + OpenAI GPT-4
-- **Payment:** SSLCommerz Integration
-- **Database:** PostgreSQL 15
-- **DevOps:** Docker + Azure DevOps CI/CD
-
-#### ✨ **Key Features:**
-- 🤖 **AI-Powered Health Assistant** with GPT-4 integration
-- 📅 **Advanced Appointment Management** with real-time scheduling
-- 💊 **Digital Prescription System** with drug interaction checking
-- 🧪 **Test Results Management** with secure PDF handling
-- 💳 **Secure Payment Processing** with multiple payment methods
-- 🔐 **JWT Authentication** with role-based access control
-- 📱 **Real-time Notifications** across multiple channels
-
-#### 🌟 **Technical Highlights:**
-- **Microservices Architecture** with 4 independent services
-- **Azure Cloud Deployment** with CI/CD pipeline
-- **Responsive Design** with mobile-first approach
-
-## 🎯 Project Portfolio
-
-### 🌐 **Web Development**
-- **[Weather API](https://github.com/TashdiqurRahmanShifat/Weather-API)** - Real-time weather data integration
-- **[Currency Converter](https://github.com/TashdiqurRahmanShifat/Currency-Converter)** - Live exchange rates
-- **[Amazon Clone](https://github.com/TashdiqurRahmanShifat/Amazon-Clone-Using-CSS)** - Frontend design replica
-- **[Food App](https://github.com/TashdiqurRahmanShifat/FoodApp-CSE216-DataBase-Project)** - Full-stack database project
-
-### 🎨 **Graphics & GUI**
-- **[JavaFX Project](https://github.com/TashdiqurRahmanShifat/Level-1_Term-2_JavaFX_Project)** - Desktop application
-- **[iGraphics Project](https://github.com/TashdiqurRahmanShifat/Level-1_Term-1_IGraphics_Project)** - C-based graphics
-- **[Computer Graphics](https://github.com/TashdiqurRahmanShifat/CSE-410-Graphics)** - Advanced graphics algorithms
-
-### 🧠 **Computer Science Fundamentals**
-- **[Data Structures I](https://github.com/TashdiqurRahmanShifat/CSE204-DSA-I)** - Java implementations
-- **[Data Structures II](https://github.com/TashdiqurRahmanShifat/CSE208-DSA-II)** - Advanced C++ algorithms
-- **[Artificial Intelligence](https://github.com/TashdiqurRahmanShifat/CSE318-Artificial_Intelligence)** - AI algorithms
-- **[Operating Systems](https://github.com/TashdiqurRahmanShifat/CSE314-OS)** - Shell scripting & OS concepts
-- **[Computer Networks](https://github.com/TashdiqurRahmanShifat/CSE322-ComputerNetwork)** - Network programming
-- **[Compiler Design](https://github.com/TashdiqurRahmanShifat/CSE310-Compiler)** - Parser & compiler implementation
-- **[Software Engineering](https://github.com/TashdiqurRahmanShifat/CSE308-Software_Engineering)** - Java-based projects
-- **[Computer Security](https://github.com/TashdiqurRahmanShifat/CSE-406-Computer-Security)** - Security tools
-- **[Assembly Language](https://github.com/TashdiqurRahmanShifat/CSE-316-Assembly)** - Low-level programming
-- **[Information System Design](https://github.com/TashdiqurRahmanShifat/CSE326-ISD)** - System architecture
-- **[LaTeX Documentation](https://github.com/TashdiqurRahmanShifat/CSE300-Latex)** - Technical writing
 
 ## 📊 GitHub Statistics
 
@@ -157,11 +105,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TashdiqurRahmanShifat&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most Used Languages"/>
 </div>
 
-## 🏆 GitHub Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TashdiqurRahmanShifat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
 
 ## 📫 Connect With Me
 
@@ -180,10 +124,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </div>
 
-<div align="center">
-  
-**⭐ "The best way to predict the future is to create it." - Peter Drucker**
-
-*Thanks for visiting! Feel free to explore my repositories and connect for collaboration opportunities!* 🚀
-
-</div></content>
+</content>
